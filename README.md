@@ -2,4 +2,4 @@
 Purely HTML, CSS and Javascript arithmetic calculator with designed UI
 
 ##Live Site URL
-To be added
+https://moidz.github.io/Calculator-first-trial/
